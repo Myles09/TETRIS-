@@ -1,14 +1,3 @@
-#Group 6: Game Activity
-#Members: Abgao, John Kevin, Canedo, Justin, Balboa, Arjay, Carrie, Czarina, Palatino, Carlo, Lagos, John Jed 
-
-#This game is called, Tetris 
-# How to play Tetris 
-#Blocks are lowered from the screen's top. You may rotate the blocks as well as move them from left to right. If you are assured of your positioning, you can speed up
-the rate at which the blocks fall. You must arrange all of the blocks in a line at the bottom of the screen to completely fill it. When you succeed, the blocks will 
-disappear and you will receive points.
-
-#this code tells the color of the blocks
-
 import tkinter as tk
 import random
 from threading import Lock
